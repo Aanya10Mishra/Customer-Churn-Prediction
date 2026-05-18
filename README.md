@@ -62,7 +62,7 @@ Among all models tested, **Logistic Regression achieved the highest accuracy**, 
 ## ✅ How to Run
 
 ```bash
-git clone https://github.com/<your-username>/customer-churn-prediction.git
+git clone https://github.com/.../customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
 ```
